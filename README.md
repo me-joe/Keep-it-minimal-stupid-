@@ -1,5 +1,7 @@
 ### Keep it minimal stupid
 
+![Desktop](assets/desktop.png)
+
 The unofficial Minimal Debian image
 
 Maybe if you are looking for a minimal and no-nonsense Linux distribution, this might help.
@@ -15,3 +17,4 @@ The image size is about 1-2GB.
 For installation you need to download the IMAGE first from [release](https://github.com/me-joe/Keep-it-minimal-stupid/releases). After that you can burn to your media like usual
 
 Sfter boot into Desktop you can now navigate to `Application launcher` -> `Install debian`
+
